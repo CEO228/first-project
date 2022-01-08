@@ -4,6 +4,7 @@
  <link rel="stylesheet" href="style.css">
 <div class="greeting">
 <h1>ПРИВЕТ!!!</h1>
+<p>ХАЛО ПАЧАНЫ</p>
 </div>
 </head>
 <body></body>
